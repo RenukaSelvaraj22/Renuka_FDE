@@ -1,0 +1,50 @@
+[
+  {"invoice_id": 101,
+  "vendor": "ABC LTD",
+  "amount": 85000,
+  "status": "PENDING",
+  "date": "2026-09-03"},
+
+
+ {"invoice_id": 102,
+  "vendor": "XYZ CORP",
+  "amount": 142500,
+  "status": "pending",
+  "date": "2026-09-05"},
+
+ {"invoice_id": 103,
+  "vendor": "GLOBEX",
+  "amount": -550000,
+  "status": "CANCELLED",
+  "date": "2026-09-07"},
+
+ {"invoice_id": 104,
+  "vendor": "ABC LTD ",
+  "amount": 62000,
+  "status": "PAID",
+  "date": "2026-09-08"},
+
+ {"invoice_id": 102,
+  "vendor": "XYZ CORP",
+  "amount": 150000,
+  "status": "PENDING",
+  "date": "2026-09-12"},
+
+ {"invoice_id": 105,
+  "vendor": "GLOBEX",
+  "amount": 550000,
+  "status": "CANCELLED",
+  "date": "2026-09-09"},
+
+ {"invoice_id": 106,
+  "vendor": "INITECH",
+  "amount": None,
+  "status": "PENDING",
+  "date": "2026-09-15"},
+  
+ {"invoice_id": 107,
+  "vendor": "ABC LTD",
+  "amount": 85000,
+  "status": "PENDING",
+  "date": "2026-09-03"}
+]
